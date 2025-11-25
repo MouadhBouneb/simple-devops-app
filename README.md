@@ -4,6 +4,10 @@ A sample DevOps project demonstrating CI/CD pipelines with GitHub Actions, Docke
 
 ## 🚀 Features
 
+
+
+
+
 - **Flask REST API** - Simple Python web application
 - **GitHub Actions CI/CD** - Automated testing, building, and deployment
 - **Docker Support** - Containerized application
